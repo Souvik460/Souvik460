@@ -31,6 +31,6 @@
 - 🌍 Location: Hyderabad, India
 - 🔗 GitHub: [github.com/souvikdolai](https://github.com/souvikdolai)
 
-
+---
 
 ⭐ *Open to internships and job opportunities in software development and analytics domains!*
