@@ -33,4 +33,4 @@
 
 ---
 
-⭐ *Open to internships and job opportunities in software development and analytics domains!*
+⭐ *Open to internships and job opportunities in software development and analytics domains!* 
